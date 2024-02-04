@@ -1,0 +1,12 @@
+{
+  "title": "Yume Reality Watch",
+  "description": "Yume Reality is a virtual youtuber agency that create and distribute creative content through social media. Yume Watch offers a one-stop destination for fans to keep up with the latest live streaming activity from Yume Reality talented roster of virtual YouTubers. Utilizing the power of the YouTube API, the site seamlessly integrates live stream data and automatically refreshes for up-to-the-minute updates. The website featured fan-made video clips of Yume Reality's YouTubers, selected by keywords from the video title.",
+  "website": null,
+  "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/yume-watch/yume-watch.png",
+  "github": null,
+  "type": "Full-stack Web Application",
+  "images": [
+    "https://velcro.is3.cloudhost.id/portofolio/yume-watch/yume-watch.png"
+  ],
+  "stacks": ["NextJS", "NestJS", "MySQL"]
+}

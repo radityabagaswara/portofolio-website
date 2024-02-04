@@ -1,0 +1,15 @@
+{
+  "title": "Yume Reality Content Creator Tools",
+  "description": "Yume Reality is a virtual YouTuber agency that creates and distributes creative content through various social media platforms. The Yume content creator website enables the company to efficiently oversee all aspects of talent management for content creation. This encompasses content scheduling, performance reviews and monitoring, content asset planning and scheduling, as well as an integrated project management system.",
+  "website": null,
+  "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc.png",
+  "github": null,
+  "type": "Full-stack Web Application",
+  "images": [
+    "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc.png",
+    "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc-2.png",
+    "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc-3.png",
+    "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc-4.jpeg"
+  ],
+  "stacks": ["NextJS", "NestJS", "MySQL"]
+}

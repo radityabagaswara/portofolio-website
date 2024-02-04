@@ -1,0 +1,14 @@
+{
+  "title": "Lucky Network Famous Website",
+  "description": "Lucky Network started off as a big minecraft network that is based in Indonesia. Founded in the 17th of August 2017, they have managed to create one of the biggest minecraft server in the South East Asia region. Lucky Famous, a user-friendly web application that streamlines the process for achieving the coveted \"Famous\" rank on Lucky Network Server. The site provides a wealth of information about the benefits of this rank, as well as a comprehensive list of members who have already achieved it. Users can easily apply for the rank via a convenient online form. On the administrative side, we've designed a simple and effective interface for managing application submissions.",
+  "website": "https://famous.luckynetwork.net/",
+  "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous.png",
+  "github": null,
+  "type": "Full-stack Web Application",
+  "images": [
+    "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous.png",
+    "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous-1.png",
+    "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/Screenshot%202024-02-03%20234212.png"
+  ],
+  "stacks": ["React", "ExpressJS", "MySQL"]
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Yashacchi Portfolio Website",
+  "description": "Yashacchi is a digital artist with expertise in Illustrator and L2D Model Artistry. Her portfolio website serves as a comprehensive showcase for all her previous works and pricing information, catering specifically to potential clients. The website has been crafted using NextJS.",
+  "website": "https://yashacchi.vercel.app",
+  "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha.png",
+  "github": null,
+  "type": "Web Application",
+  "images": [
+    "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha.png",
+    "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha-1.png",
+    "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha-2.png"
+  ],
+  "stacks": ["NextJS"]
+}

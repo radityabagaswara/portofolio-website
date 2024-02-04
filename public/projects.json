@@ -1,0 +1,45 @@
+[
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous.png",
+    "title": "Lucky Network Famous Website",
+    "shortDescription": "A website for Lucky Network, a Minecraft server. Enable player to register famous rank.",
+    "stacks": ["React", "ExpressJS", "MySQL"],
+    "slug": "lucky-famous"
+  },
+
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/yume-cc/yume-cc.png",
+    "title": "Yume Reality Content Creator Tools",
+    "shortDescription": "An ERP system for Yume Reality. The system is used to manage the company's internal affairs.",
+    "stacks": ["NextJS", "NestJS", "MySQL"],
+    "slug": "yume-cc"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/yume-watch/yume-watch.png",
+    "title": "Yume Reality Watch",
+    "shortDescription": "A website for Yume Reality. The website display the company's talents content.",
+    "stacks": ["NextJS", "NestJS", "MySQL"],
+    "slug": "yume-watch"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
+    "title": "Adi Mitra Tembakau",
+    "shortDescription": "A company profile website for PT Adi Mitra Tembakau",
+    "stacks": ["Laravel", "Javascript", "MySQL"],
+    "slug": "amt"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha.png",
+    "title": "Yashacchi Portfolio",
+    "shortDescription": "A Portofolio website for a digital artist Yashacchi.",
+    "stacks": ["NextJS"],
+    "slug": "yashacchi"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
+    "title": "Dwi Anugrah Niaga",
+    "shortDescription": "A heavy equipment renting system website.",
+    "stacks": ["Laravel", "React", "Inertia", "MySQL"],
+    "slug": "dan"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "title": "Adi Mitra Tembakau",
+  "description": "Adi Mitra Tembakau is a Virginia tobacco trading company headquartered in Jember, Indonesia. The company utilizes its website, featured in the Adi Mitra Tembakau company profile, to exhibit their production and products to customers. The website's content can be easily tailored by the company through the built-in content management system (CMS). Developed using Laravel, JavaScript, and MySQL.",
+  "website": "https://adimitratembakau.id/",
+  "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
+  "github": null,
+  "type": "Full-stack Web Application",
+  "images": [
+    "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
+    "https://velcro.is3.cloudhost.id/portofolio/amt/amt-1.png",
+    "https://velcro.is3.cloudhost.id/portofolio/amt/amt-2.png"
+  ],
+  "stacks": ["Laravel", "Javascript", "MySQL"]
+}

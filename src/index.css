@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #202020;
+  color: #fff5ee !important;
+}
+
+.btn {
+  @apply bg-indigo-400/[0.85] text-[#FFF5EE]  py-2 px-4 rounded-md;
+  @apply hover:bg-indigo-500;
+  @apply transition-all hover:transition-all;
+  @apply active:bg-indigo-600 active:transition-all active:scale-[0.99];
+}
+
+a{
+  @apply text-indigo-200;
+  @apply hover:text-indigo-300;
+  @apply transition-all hover:transition-all;
+}
