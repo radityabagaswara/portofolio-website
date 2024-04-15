@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <nav className="max-w-4xl w-full fixed z-50 h-14 flex flex-row justify-between items-center border-b border-[#212121] p-4 rounded-md bg-[#202020] bg-clip-padding backdrop-filter backdrop-blur-sm bg-opacity-90">
       <h1 className="text-lg font-semibold">
-        <a href="/" className="text-[#FFF5EE] hover:text-[#FFF5EE]">
+        <a href="/home" className="text-[#FFF5EE] hover:text-[#FFF5EE]">
           Raditya Bagaswara
         </a>
       </h1>
@@ -38,7 +38,7 @@ const Navbar = () => {
       >
         {/* check if the page is at / */}
         <a
-          href="/"
+          href="/home"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
         >
           Home
@@ -48,13 +48,14 @@ const Navbar = () => {
           href="https://drive.google.com/file/d/1qNia6FTHhVvXVnTe2SAVIJl0Z9PjL35p/view?usp=sharing"
           target="_blank"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
+          rel="noreferrer"
         >
           Resume
         </a>
         <HashLink
           scroll={scrollWithOffset}
           smooth
-          to="/#about"
+          to="/home#about"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
         >
           About
@@ -62,7 +63,16 @@ const Navbar = () => {
         <HashLink
           scroll={scrollWithOffset}
           smooth
-          to="/#projects"
+          to="/home#skills"
+          className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
+        >
+          Skills
+        </HashLink>
+
+        <HashLink
+          scroll={scrollWithOffset}
+          smooth
+          to="/home#projects"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
         >
           Works
@@ -70,7 +80,7 @@ const Navbar = () => {
         <HashLink
           scroll={scrollWithOffset}
           smooth
-          to="/#contact"
+          to="/home#contact"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
         >
           Contact

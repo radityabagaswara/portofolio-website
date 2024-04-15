@@ -11,6 +11,7 @@ const Projects = () => {
 
   useEffect(() => {
     if (!params) return navigate("/");
+    if (!params.slug) return navigate("/");
     fetch("/projects/" + params.slug + ".json", {
       method: "GET",
       headers: {
@@ -84,7 +85,12 @@ const Projects = () => {
             <div className="px-3 py-1 bg-indigo-400/[0.4] rounded-full mr-2">
               Website
             </div>
-            <a href={data.website} target="_blank" className="text-sm">
+            <a
+              href={data.website}
+              target="_blank"
+              className="text-sm"
+              rel="noreferrer"
+            >
               {data.website}
             </a>
           </div>
@@ -94,7 +100,12 @@ const Projects = () => {
             <div className="px-3 py-1 bg-indigo-400/[0.4] rounded-full mr-2">
               Github
             </div>
-            <a href={data.github} target="_blank" className="text-sm">
+            <a
+              href={data.github}
+              target="_blank"
+              className="text-sm"
+              rel="noreferrer"
+            >
               {data.github}
             </a>
           </div>

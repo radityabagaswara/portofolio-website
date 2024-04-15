@@ -36,13 +36,6 @@
     "slug": "amt"
   },
   {
-    "image": "https://velcro.is3.cloudhost.id/portofolio/yasha/yasha.png",
-    "title": "Yashacchi Portfolio",
-    "shortDescription": "A Portofolio website for a digital artist Yashacchi.",
-    "stacks": ["NextJS"],
-    "slug": "yashacchi"
-  },
-  {
     "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
     "title": "Dwi Anugrah Niaga",
     "shortDescription": "A heavy equipment renting system website.",
