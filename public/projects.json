@@ -1,5 +1,12 @@
 [
   {
+    "image": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+    "title": "Anime List Flutter App",
+    "shortDescription": "A self flutter project to list anime using Jikan API.",
+    "stacks": ["Flutter"],
+    "slug": "anilist"
+  },
+  {
     "image": "https://velcro.is3.cloudhost.id/portofolio/lucky-famous/lucky-famous.png",
     "title": "Lucky Network Famous Website",
     "shortDescription": "A website for Lucky Network, a Minecraft server. Enable player to register famous rank.",
