@@ -1,0 +1,17 @@
+{
+  "title": "Anilist Flutter App",
+  "description": "A mobile application project utilizing Flutter and the Anilist API to create an anime list. This app provides a user-friendly interface for searching anime titles and viewing their descriptions.",
+  "website": "",
+  "thumbnail": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+  "github": null,
+  "type": "Mobile Application",
+  "images": [
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore_filter_2.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/explore_filter.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202024-03-10%20at%2018.11.16.png",
+    "https://is3.cloudhost.id/velcro/portofolio/ani_list/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202024-03-10%20at%2018.11.49.png"
+  ],
+  "stacks": ["Flutter"]
+}
