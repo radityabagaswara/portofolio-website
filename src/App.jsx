@@ -94,7 +94,7 @@ export default function App() {
         <div className="mt-3">
           <a
             className="btn text-[#FFF5EE] hover:text-[#FFF5EE]"
-            href="https://drive.google.com/file/d/1qNia6FTHhVvXVnTe2SAVIJl0Z9PjL35p/view?usp=sharing"
+            href="https://drive.google.com/drive/folders/1mjSDJyCJJJj-Cwrx8s51eEE3aZRxLcrL?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >

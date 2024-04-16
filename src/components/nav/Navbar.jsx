@@ -45,7 +45,7 @@ const Navbar = () => {
         </a>
 
         <a
-          href="https://drive.google.com/file/d/1qNia6FTHhVvXVnTe2SAVIJl0Z9PjL35p/view?usp=sharing"
+          href="https://drive.google.com/drive/folders/1mjSDJyCJJJj-Cwrx8s51eEE3aZRxLcrL?usp=sharing"
           target="_blank"
           className="text-[#FFF5EE] hover:text-indigo-100 active:text-indigo-300 transition-all"
           rel="noreferrer"
