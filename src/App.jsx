@@ -83,13 +83,12 @@ export default function App() {
       <div className="mt-10" id="about">
         <SectionTitle title={"About Me"} />
         <p className="prose text-justify mt-2 text-[#FFF5EE]">
-          Fresh graduate Business Information Systems from Universitas Surabaya,
-          expertise in full-stack website development. Proficient in HTML, CSS,
-          JavaScript, TypeScript, PHP, C#, and MySQL, I have gained experience
-          through various development projects during my studies and through
-          projects I have undertaken. Skilled in problem-solving, adaptability,
-          and the ability to work under pressure. I enjoy facing new challenges
-          and committed to continuous learning.
+          As a recent graduate in Business Information Systems from Universitas
+          Surabaya, I specialize in full-stack website development, with
+          proficiency in HTML, CSS, JavaScript, Typescript, PHP, C#, and MySQL.
+          Through various development projects during my studies and personal
+          undertakings, I've honed my technical skills and gained practical
+          experience in implementing solutions.
         </p>
         <div className="mt-3">
           <a
