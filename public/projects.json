@@ -9,7 +9,7 @@
   {
     "image": "https://is3.cloudhost.id/velcro/portofolio/tanyanya/1.jpg",
     "title": "Tanyanya.id",
-    "shortDescription": "Tanyanya.id is a web app I developed that allows content creators to receive anonymous questions and donations from fans, with processing handled through Midtrans.",
+    "shortDescription": "A Web app  that allows content creators to receive anonymous questions and donations.",
     "stacks": ["Laravel", "React", "PostgreSQL"],
     "slug": "tanyanya"
   },
