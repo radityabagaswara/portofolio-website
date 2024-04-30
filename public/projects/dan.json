@@ -3,7 +3,7 @@
   "description": "Dwi Anugrah Niaga operates as a heavy equipment rental company located in Surabaya, Indonesia. The company's website facilitates the rental process for heavy equipment, allowing users to browse through the equipment catalog, make reservations, and complete payments online. The payment system is integrated with the Midtrans service for a secure and efficient transaction experience. To enhance customer engagement, the system incorporates a rating feature, enabling clients to provide feedback on their experiences. Additionally, a customer rating where company can rate their customer and double booking system is in place, providing the company with the flexibility to prioritize customers based on their specific needs. The website has been meticulously developed using a combination of Laravel for the backend, React for the frontend, and MySQL for database management",
   "website": null,
   "thumbnail": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
-  "github": null,
+  "github": "https://github.com/radityabagaswara/tugas-akhir",
   "type": "Full-stack Web Application",
   "images": [
     "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",

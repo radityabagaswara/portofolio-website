@@ -1,8 +1,30 @@
 [
   {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
+    "title": "Dwi Anugrah Niaga",
+    "shortDescription": "A heavy equipment renting system website.",
+    "stacks": ["Laravel", "React", "MySQL"],
+    "slug": "dan"
+  },
+  {
+    "image": "https://is3.cloudhost.id/velcro/portofolio/tanyanya/1.jpg",
+    "title": "Tanyanya.id",
+    "shortDescription": "Tanyanya.id is a web app I developed that allows content creators to receive anonymous questions and donations from fans, with processing handled through Midtrans.",
+    "stacks": ["Laravel", "React", "PostgreSQL"],
+    "slug": "tanyanya"
+  },
+  {
+    "image": "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
+    "title": "Adi Mitra Tembakau",
+    "shortDescription": "A company profile website for PT Adi Mitra Tembakau",
+    "stacks": ["Laravel", "Javascript", "MySQL"],
+    "slug": "amt"
+  },
+
+  {
     "image": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
     "title": "Anime List Flutter App",
-    "shortDescription": "A self flutter project to list anime using Jikan API.",
+    "shortDescription": "Mobile app project to displays an anime list using the Jikan API v4.",
     "stacks": ["Flutter"],
     "slug": "anilist"
   },
@@ -27,19 +49,5 @@
     "shortDescription": "A website for Yume Reality. The website display the company's talents content.",
     "stacks": ["NextJS", "NestJS", "MySQL"],
     "slug": "yume-watch"
-  },
-  {
-    "image": "https://velcro.is3.cloudhost.id/portofolio/amt/thumbnail%20%281%29.png",
-    "title": "Adi Mitra Tembakau",
-    "shortDescription": "A company profile website for PT Adi Mitra Tembakau",
-    "stacks": ["Laravel", "Javascript", "MySQL"],
-    "slug": "amt"
-  },
-  {
-    "image": "https://velcro.is3.cloudhost.id/portofolio/dan/dan.png",
-    "title": "Dwi Anugrah Niaga",
-    "shortDescription": "A heavy equipment renting system website.",
-    "stacks": ["Laravel", "React", "Inertia", "MySQL"],
-    "slug": "dan"
   }
 ]

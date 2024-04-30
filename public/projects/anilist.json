@@ -1,9 +1,9 @@
 {
   "title": "Anilist Flutter App",
-  "description": "A mobile application project utilizing Flutter and the Anilist API to create an anime list. This app provides a user-friendly interface for searching anime titles and viewing their descriptions.",
+  "description": "This is a personal project involving a mobile application that displays an anime list from animelist.com using the Jikan API v4. Users can browse anime within the app. There are known issues with the character list on the detail page sometimes not displaying due to the rate limit imposed by the Jikan API. The app was built using Flutter.",
   "website": "",
   "thumbnail": "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",
-  "github": null,
+  "github": "https://github.com/radityabagaswara/idanim",
   "type": "Mobile Application",
   "images": [
     "https://is3.cloudhost.id/velcro/portofolio/ani_list/home.png",

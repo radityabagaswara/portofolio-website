@@ -1,0 +1,25 @@
+{
+  "title": "Tanyanya",
+  "description": "Tanyanya.id is a web app I developed as a personal project. It allows content creators to receive anonymous questions from their fans. These Q&A questions can then be sent to the overlay for content creation purposes. Fans also have the option to send donations along with their questions to support their favorite creators. All payments made through donations are processed via Midtrans. The app was built using Laravel 11, Laravel Reverb, Inertia, PostgreSQL, React, Mantine, and Tailwind CSS.",
+  "website": null,
+  "thumbnail": "https://is3.cloudhost.id/velcro/portofolio/tanyanya/1.jpg",
+  "github": "https://github.com/radityabagaswara/tanyanya.id",
+  "type": "Full-stack Web Application",
+  "images": [
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/1.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/2.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/3.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/4.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/5.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/6.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/7.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/8.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/9.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/10.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/11.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/12.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/13.jpg",
+    "https://is3.cloudhost.id/velcro/portofolio/tanyanya/14.jpg"
+  ],
+  "stacks": ["Laravel", "React", "Inertia", "MySQL"]
+}

@@ -15,9 +15,6 @@ export default function App() {
   function hashLinkScroll() {
     const { hash } = window.location;
     if (hash !== "") {
-      // Push onto callback queue so it runs after the DOM is updated,
-      // this is required when navigating from a different page so that
-      // the element is rendered on the page before trying to getElementById.
       setTimeout(() => {
         const id = hash.replace("#", "");
         const element = document.getElementById(id);
@@ -112,7 +109,7 @@ export default function App() {
           complex web applications. Here are some of my projects that I have
           developed:
         </p>
-        <div className="grid grid-cols-1 md:grid-cols-2 mt-3 gap-3 gap-y-5">
+        <div className="grid grid-cols-1 md:grid-cols-2 mt-3 gap-3 gap-y-10">
           {projects.map((project, index) => {
             return <ProjectCard key={index} {...project} />;
           })}
